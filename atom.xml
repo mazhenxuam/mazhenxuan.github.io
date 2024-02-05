@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>电教委的个人网站</title>
+    <updated>2024-02-05T17:12:24.281Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>欢迎访问😘💕💕💕</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2024, 电教委的个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[首篇]]></title>
+        <id>http://localhost:4000/post/shou-pian/</id>
+        <link href="http://localhost:4000/post/shou-pian/">
+        </link>
+        <updated>2024-02-03T17:46:57.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.bing.com" target="_blank">跳转bing</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.bing.com" target="_blank">跳转bing</a></p>
+]]></content>
+    </entry>
+</feed>
